@@ -205,8 +205,7 @@ Complete solution for managing patients, appointments, dental chairs, billing, p
 
 ```bash
 # Option 1: Clone with Git
-git clone https://github.com/yourusername/dental_system.git
-cd dental_system
+(https://github.com/dilshankumara001001/Dental-Care-Management-System)
 
 # Option 2: Download ZIP
 # Extract to your web server root
