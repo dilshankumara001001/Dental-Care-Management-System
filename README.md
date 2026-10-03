@@ -1,4 +1,4 @@
-# 🦷 Dentl Care Management System
+# 🦷 Dental Care Management System
 
 <div align="center">
 
