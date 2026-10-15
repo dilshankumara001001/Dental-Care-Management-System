@@ -19,7 +19,7 @@ Complete solution for managing patients, appointments, dental chairs, billing, p
 
 ---
 
-## 📋 Table of Contents
+📋 Table of Contents
 
 - [About](#-about)
 - [Features](#-features)
